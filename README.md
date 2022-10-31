@@ -4,7 +4,7 @@
 
 ## 🌱 I’m currently learning ...
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,svelte,nodejs,express,php,mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,vite,svelte,nodejs,express,php,mysql,mongodb,firebase)](https://skillicons.dev)
 
 <!--
 - 👯 I’m looking to collaborate on ...
