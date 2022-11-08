@@ -2,9 +2,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwaiyanphyoe&layout=compact)](https://github.com/mrwaiyanphyoe/mrwaiyanphyoe)
 
-### 🌱 I’m currently learning ...
+### ⚡ I'm familir with
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,vite,svelte,nodejs,express,php,mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,mui)](https://skillicons.dev)
+
+### 🌱 I’m currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,vite,svelte,mysql)](https://skillicons.dev)
 
 ### 👋 Reach Me Via
 
