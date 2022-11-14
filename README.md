@@ -8,7 +8,7 @@
 
 ### 🌱 I’m currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,vite,svelte,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,mysql)](https://skillicons.dev)
 
 ### 👋 Reach Me Via
 
