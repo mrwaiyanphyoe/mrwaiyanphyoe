@@ -4,7 +4,7 @@
 
 ### ⚡ I'm familir with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,nodejs,express,mongodb,firebase,tailwind,mui)](https://skillicons.dev)
 
 ### 🌱 I’m currently learning
 
