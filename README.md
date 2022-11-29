@@ -12,8 +12,8 @@
 
 ### 👋 Reach Me Via
 
-<a href="https://www.twitter.com/waiyanphyoedev" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/waiyanphyoedev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
+<a href="https://www.twitter.com/wypdev" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/wypdev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
 </a>
 <!--
 - 👯 I’m looking to collaborate on ...
