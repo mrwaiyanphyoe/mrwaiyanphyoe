@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwaiyanphyoe&layout=compact)](https://github.com/mrwaiyanphyoe/mrwaiyanphyoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwaiyanphyoe)](https://github.com/mrwaiyanphyoe/mrwaiyanphyoe)
 
 ### ⚡ I'm familir with
 
