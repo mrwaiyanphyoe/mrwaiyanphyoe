@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Wei+Yan+Phyoe.;I'm+a+full-stack+developer." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Wai+Yan+Phioe.;I'm+a+full-stack+developer." alt="typing intro">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weiyanphyoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="weiyanphyoe" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waiyanphioe&label=Profile%20views&color=0e75b6&style=flat-square" alt="waiyanphioe" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
